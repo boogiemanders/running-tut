@@ -16,6 +16,8 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ## Satisfy Running (Paris, luxury end)
 
+**Website:** https://satisfyrunning.com
+
 **Prices:** tops $140 to $320, shorts around $220, MothTech tee ~$140, merino tee up to €230, hoodie ~$330.
 
 **What people love**
@@ -37,6 +39,8 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ## Bandit Running (Brooklyn, premium-but-accessible)
 
+**Website:** https://www.banditrunning.com
+
 **Prices:** shorts $78 to $88, half tights ~$118, tees ~$58, hoodie ~$120, $125/year membership for early access. Chicago flagship opened early 2026.
 
 **What people love**
@@ -54,6 +58,8 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ## Hoka (shoe giant, apparel is an afterthought)
 
+**Website:** https://www.hoka.com (apparel: https://www.hoka.com/en/us/clothing/)
+
 **Business:** record ~$5.47B revenue for Deckers in FY2026, driven by Hoka.
 
 **What people love:** comfort, cushioning, light weight; fast shipping and exchanges (Trustpilot 3.7/5 from 14,399 reviews).
@@ -69,6 +75,8 @@ The premium running market is real and growing: US running apparel sales rose ab
 **Takeaway for Tut:** Hoka is not an apparel competitor. Its durability and service backlash is a reminder that premium buyers punish anything that falls apart early.
 
 ## Nike (scale player moving into "designer running")
+
+**Website:** https://www.nike.com/running (NikeLab: https://www.nike.com/nikelab)
 
 **Last 30 days**
 - **Oct 1, 2026 earnings:** revenue down 4% to $11.2B, China down 26%, sportswear down low double digits, but **running up double digits** with "consistent share gains." Growth is driven by max-cushion shoes.
