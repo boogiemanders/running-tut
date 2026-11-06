@@ -1,15 +1,18 @@
-# More brands: Uppervoid, Repsycle, Loose End, Maintain Fever, Gyakusou, District Vision + Bandit's philosophy
+# More brands: Uppervoid, Repsycle, Loose End, Maintain Fever, Gyakusou, District Vision, Descente, Kodiak, OPS, San San Gear + Bandit's philosophy
 
 Researched 2026-11-06 for Running Tut. Window asked for: last 30 days (roughly Oct 7 to Nov 6, 2026). Follows on from `2026-11-competitor-sentiment.md` (Satisfy, Bandit, Hoka, Nike).
 
 ## Read this first: how good is the evidence?
 
 - **Reddit, Instagram, TikTok and Facebook could not be read** from the research environment (sites refuse automated reads). What's here comes from brand sites, retailers, gear reviewers, trade press and newsletters.
-- **Truly last-30-day material is almost nonexistent for these brands.** The only dated item in the window is Highsnobiety's District Vision knitwear piece (Oct 14, 2026). Everything else is older and labelled with its date.
+- **Truly last-30-day material is thin.** Dated items in the window: Highsnobiety on District Vision knitwear (Oct 14, 2026), Descente's running feature (Oct 1), Weekends' Korean outdoor brands piece (Oct 6) and Nothing x San San Gear (Oct 8). Everything else is older and labelled with its date.
 - **Two of the six names could not be confirmed as running brands:**
   - **Loose End**: the only match found (looseendapparel.com) is "a skateboarding brand with handcrafted premium quality garments" with a $31 compression-tee fitness line. Not a running brand.
   - **Maintain Fever**: no brand by this name (or close spellings) turned up in web search, in the Running Supply index of 100+ independent running brands, or in Field Mag's best-running-brands list. Likely a spelling we haven't guessed, or an Instagram-only label.
-  - If Anders has an Instagram handle or link for either, I can redo these two.
+  - **Kodiak**: the only matches are Kodiak Boots (Canadian workwear/hiking boots), a Kodiak running belt at MEC and unrelated shops. No Kodiak running apparel brand appears in search, Monocle's Korean running brands piece, Weekends' or Field Mag's Korean outdoor lists, or the Running Supply index.
+  - If Anders has an Instagram handle or link for any of these three, I can redo them.
+- **"Objective Performance Supply" is OPS Running** (Seoul): its site metadata reads "OBJECTIVE PERFORMANCE SUPPLY." Confirmed as a running brand.
+- **San San Gear** is a Seoul technical-streetwear label, not a running brand; included because it's a design reference.
 - Uppervoid and Repsycle are small; there are almost no independent customer reviews of them anywhere readable.
 
 ## The one-paragraph answer
@@ -95,6 +98,46 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 
 **Takeaway for Tut:** the clearest model for Tut's luxury tier, with fashion pedigree, European manufacturing and luxury stockists. Its gap is exactly Tut's thesis: beautiful pieces with almost no storage.
 
+## Descente (Osaka, Japanese technical heritage)
+
+**What it is:** Descente Ltd., founded 1935 in Osaka; owns about 16 brands (Descente, Arena, Marmot, Srixon). Design pedigree is skiwear and speed suits (Eric Heiden's 1980 Olympic speed-skating suit, 2002 Olympic Vortex suits with Eiko Ishioka, ISPO Gold for the ALLTERRAIN Transform Jacket). ALLTERRAIN ("Form Follows Function," "high-spec tech wear") is its fashion-facing outdoor line, not running. Confirmed: has a dedicated running line, sold mainly in Japan.
+
+**Last 30 days:** the Japanese running feature page, dated Oct 1, 2026: "速いものは必ず美しい。" ("Fast things are always beautiful. Wear functional beauty to run.") Aimed at "serious runners," ambassador Ryota Igawa (2025 Japan 5000 m champion).
+
+**Prices (tax-inclusive yen, approx USD at ¥150/$):** SmartPadding Transform Jacket ¥89,100 (~$590, sleeves detach into a vest); SmartPadding long pants ¥59,400 (~$395, zip off into shorts); wind breaker ¥33,000 (~$220); Comfort Run Shorts ¥15,400 (~$100); Aero Stream tees ¥14,300 to ¥15,400 (~$95 to $100); Deltapro EXP v3 shoe ¥29,700.
+
+**What people like / complaints:** no independent reviews of the running line found in English. The brand's reputation rests on its ski and ALLTERRAIN tech.
+
+**Design and aesthetics:** Japanese "functional beauty," convertible (modular) pieces, clean dark palettes. Pocket details aren't listed on any running item.
+
+**Takeaway for Tut:** a heritage maker with real fabric and construction tech, and convertible pieces (pants that become shorts) that echo Gyakusou's modular idea. Mostly invisible outside Japan for running, so it's a reference, not a direct competitor. Its Japanese factory relationships could matter later for manufacturing.
+
+## OPS Running, "Objective Performance Supply" (Seoul, underground run crew label)
+
+**What it is:** small Seoul label (Yongsan-gu), representative Jeon Seung-gyu; business registrations dated 2018 and 2023. Copy: "A performance silhouette engineered for runners who move with intent" and "Designed to naturally connect running and everyday life." Also sells caps ("RUN OR DIE"), necklaces and collabs (OPS x OOA, OPS x OSTRYA).
+
+**Prices (KRW, approx USD at ₩1,380/$):** Skin 00 seamless singlet ₩119,000 (~$86); Skin 01 First Edition 9" half tights ₩139,000 (~$100, restocked); Team Legacy tee ₩69,000 (~$50, sold out).
+
+**What people like / complaints:** no reviews readable. Sold-out tee and a "re-stock" of the tights suggest demand within the Seoul crew scene.
+
+**Design and aesthetics:** black, charcoal, coffee and camo; a flame graphic "as a minimal visual element over function"; reflective graphics that "emerge only when daylight fades." No pocket specs listed.
+
+**Takeaway for Tut:** shows the Seoul crew-culture model: dark, restrained palette, small drops, accessories and collabs as part of the identity, at Bandit-level prices. It's a good reference for the look, not a threat in the US.
+
+## San San Gear (Seoul, technical streetwear, not running)
+
+**What it is:** founded 2019 in Seoul; "arguably more fashion label than outdoor brand now" (Weekends, Oct 6, 2026). Stocked in 53 retailers (Goodhood, Extra Butter). Collabs with Puma, ASICS, League of Legends.
+
+**Last 30 days:** Nothing x San San Gear (PAP Magazine, Oct 8, 2026), Nothing's first Korean partner: a zip-up hoodie with a hood fastener that holds a headset, plus red accents. Earlier: Hannam flagship and FW26 "CABLE" collection (Aug 2026).
+
+**Prices (Goodhood US):** tees $77 to $84; long sleeves $195 to $220; pants $220; jackets $225 to $245; cargo shorts $190; magnet clip bag $130.
+
+**What people like / complaints:** no reviews found.
+
+**Design and aesthetics:** grey, black, charcoal and navy with technical details. Storage is a design feature: big rounded asymmetric cargo pockets on shorts, zip front pockets on hoodies, the headset-holding hood.
+
+**Takeaway for Tut:** the best example here of **pockets as a visible design signature** rather than a hidden feature, at luxury streetwear prices. Worth studying for how Tut's big pockets could *look* good instead of looking utilitarian.
+
 ---
 
 ## Bandit Running: brand philosophy
@@ -142,12 +185,16 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 | Bandit | Mid-premium ($58 to $120) | Sleek, punchy collabs | Best in class | Durability on some pieces, drops | Medium (owns pockets) |
 | Nike | Mass to designer | Varied | Varied | Generic at mass level | Medium (moving upmarket) |
 | Hoka | Mass | Loud colourways | Basic | Apparel is an afterthought | Low |
-| Loose End / Maintain Fever | n/a | n/a | n/a | Not confirmed as running brands | n/a |
+| Descente | Premium to luxury (~$95 to $590) | Japanese "functional beauty," modular | Not stated | Japan-only running line | Low (reference) |
+| OPS Running | Mid-premium (~$50 to $100) | Dark, crew-culture | Not stated | Tiny, Korea only | Low |
+| San San Gear | Luxury streetwear ($77 to $245) | Grey/black techwear | Big visible cargo pockets | Not a running brand | Low (design reference) |
+| Loose End / Maintain Fever / Kodiak | n/a | n/a | n/a | Not confirmed as running brands | n/a |
 
 **What this adds to the first report**
 1. The luxury tier has a **storage gap across the board**: District Vision and Satisfy are the style leaders, and only Bandit (one tier down) solves pockets. That backs "luxury that lasts, with pockets."
 2. Restrained, earthy colourways (Uppervoid, Repsycle, District Vision) are common in premium running, so Tut's colour restraint is expected, not a differentiator. Differentiation has to come from function (pockets, gel loops, durability) and brand story.
-3. Bandit's community-first, feedback-driven design is the proven way a small brand earns pocket credibility. Tut's concept-video plan is a version of the same loop.
+3. Asian labels (Descente, Gyakusou, OPS, San San Gear) show two ideas Tut can borrow: **modular/convertible pieces** and **pockets designed to be seen**. San San Gear's cargo shorts are the clearest example of storage that reads as style.
+4. Bandit's community-first, feedback-driven design is the proven way a small brand earns pocket credibility. Tut's concept-video plan is a version of the same loop.
 
 ## Sources
 
@@ -173,6 +220,18 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 - iRunFar, District Vision apparel review (2022): https://www.irunfar.com/district-vision-mens-apparel-review
 - Thingtesting, District Vision: https://thingtesting.com/brands/district-vision
 - Wikipedia, District Vision: https://en.wikipedia.org/wiki/District_Vision
+- Descente running feature (Oct 1, 2026): https://store.descente.co.jp/descente/feature/des_training_running/
+- Wikipedia, Descente: https://en.wikipedia.org/wiki/Descente
+- Descente ALLTERRAIN: https://allterrain.descente.com/allterrain_en/
+- OPS Running: https://www.opsrunning.co.kr/
+- Monocle, Korean running brands (Jun 19, 2026): https://monocle.com/fashion/korean-running-brands-to-know/
+- Weekends, The Korean Outdoors: 8 Brands to Know (Oct 6, 2026): https://www.weekends.world/explore/article/the-korean-outdoors-8-brands-to-know
+- PAP Magazine, Nothing x San San Gear (Oct 8, 2026): https://www.pap-magazine.com/en/article/san-san-gear-nothing-collaboration-launch
+- Flanelle, San San Gear Hannam + CABLE (Aug 2026): https://flanellemag.com/san-san-gear-opens-in-hannam-and-launches-cable-its-fall-winter-2026-collection/
+- PAUSE, San San Gear FW26 (Aug 24, 2026): https://pausemag.co.uk/2026/08/san-san-gear-drops-its-fall-winter-2026-campaign/
+- Field Mag, Korean outdoor brands (2025): https://www.fieldmag.com/articles/korean-outdoor-brand-guide
+- Goodhood, San San Gear: https://goodhoodstore.com/en-us/collections/san-san-gear
+- Kodiak Boots (only "Kodiak" match): https://www.kodiakboots.com/meet-kodiak.html
 - Bandit, About: https://banditrunning.com/pages/about
 - END., Community is the key: Bandit Running: https://www.endclothing.com/us/features/community-is-the-key-bandit-running
 - The Case for Brand (Mar 2024): https://thecaseforbrand.substack.com/p/how-bandit-is-building-the-underground
