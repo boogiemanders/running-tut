@@ -83,6 +83,28 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ---
 
+## Design and aesthetics: praise and complaints
+
+**Satisfy**
+- Praise: the punk, "second-hand grunge" look is the whole draw; the holey MothTech tee is described as "wearable art" and couture-like (Kit Athletic, a Satisfy stockist; NSS Sports, Sep 2025). The look was distinctive enough that Nike's $100 Dri-FIT ADV top was widely called a MothTech copy, and Satisfy publicly said "By ripping us off, Nike is making a lazy move" (Marathon Handbook, Jan 2025, updated Apr 2026).
+- Complaints: the distressed look is polarizing. Commenters call holey shirts "hobo shirts" and say they look "sprayed with a bb gun." Because the look *is* holes and wear, real durability failures (rips, yellowing) undercut the premium feel.
+
+**Bandit**
+- Praise: the most consistently liked aesthetic of the four. "Minimalist in all the best ways: confidently cool streetwear you can crush a workout in" (The Quality Edit); draws on early-90s track style (T3, Feb 2026); the design chief says "There's not a single picture of a runner on my mood board" (Glossy, Jul 2026); works off the run, and in NYC "it feels like everyone is wearing Bandit."
+- Complaints: very little on looks. Minor: limited colors on some pieces (one bra in only two colors) and sweat marks showing on lighter colorways like olive.
+
+**Hoka**
+- Complaints: the most criticized look of the four. Reddit r/malefashionadvice (Mar 2026): "Hoka - ugly but comfortable," "a bathtub stuck on their feet," "senior citizen shoe boring and ugly af," "gaudy logos," and on colorways specifically, "If they had more shoes with black soles the color coordination would be great." Reviewers call the chunky midsoles orthopedic-looking.
+- Praise: a cult "ugly-chic" following, bold bright colorways that "make a statement," and some owners say they get compliments. Its style credibility comes mostly from fashion collabs (Satisfy, Marni, Engineered Garments), not its own line.
+
+**Nike**
+- Praise: still seen as reliably good-looking on shoes ("almost always near the top for look"); retro-inspired models like the Structure Plus are liked. NikeLab Running and Our Legacy are its push into tailored, wear-anywhere running clothes.
+- Complaints: seen as following indie brands rather than leading (the MothTech dispute); "too many styles to generalise about"; some say quality and design have slipped.
+
+**What this means for Running Tut:** Bandit shows a clean, streetwear-led look with great storage wins broadly. Satisfy shows a strong, polarizing design identity can carry luxury prices, but only if the product survives. Hoka's loud colorways are a clear thing to avoid, which matches Anders's own take.
+
+---
+
 ## Evidence on Tut's thesis
 
 **"There isn't enough designer premium running clothing"**
@@ -122,3 +144,11 @@ The premium running market is real and growing: US running apparel sales rose ab
 - Wallpaper, stylish running brands (updated Aug 2026): https://www.wallpaper.com/fashion-beauty/best-running-brands-in-the-world
 - Mumsnet, "Why are running clothes so impractical?" (Apr 2026): https://www.mumsnet.com/talk/exercise/5520657-why-are-running-clothes-so-impractical
 - Treeline Review, best men's running tights 2026: https://www.treelinereview.com/gearreviews/best-mens-running-tights
+- Marathon Handbook, Nike vs Satisfy MothTech: https://marathonhandbook.com/nike-satisfy-mothtech-shirt-rip-off/
+- NSS Sports, holey running shirts (Sep 2025): https://www.nss-sports.com/en/lifestyle/42717/why-running-shirts-have-holes
+- Kit Athletic on Satisfy: https://kitathletic.cc/blogs/news/why-satisfy-running-high-fashion-gear
+- The Quality Edit, Bandit review: https://www.thequalityedit.com/articles/bandit-running-fashion-review
+- Glossy, Bandit expansion (Jul 2026): https://www.glossy.co/fashion/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/
+- T3, 90s running style (Feb 2026): https://www.t3.com/active/running/bring-back-90s-running-fashion
+- Reddit r/malefashionadvice, "Does anyone find Hoka, Nike, New Balance trainers ugly?" (Mar 2026), via mirror: https://redlib.groet-infra.nl/r/malefashionadvice/comments/1s1rvpc/does_anyone_find_hoka_nike_new_balance_trainers/
+- Driftzine, Hoka Speedgoat 2 divisive design: https://driftzine.com/hoka-speedgoat-2-a-masterclass-in-divisive-design-and-athletic-functionality/
