@@ -54,12 +54,71 @@ One owner per area. "Owner" means that person decides and is accountable; the ot
 - **IP.** Designs, the name and content belong to the company, not to whoever made them.
 - **Leaving.** What happens if one of us wants out, or stops pulling their weight? Who can buy the other out, and at what price?
 
+## Do we need a co-founder at all?
+
+An honest test before any equity talk. Hormozi's rule for partners is roughly: only give up equity for something you can't buy or build yourself, because equity is the most expensive thing a company pays with.
+
+| What Tut brings | Could Anders do it or hire it? |
+|---|---|
+| **The original idea and thesis** (the gap in premium running clothing, the pocket problem) | No. It already happened, and it came from Tut. That counts for something, but ideas are cheap compared to execution |
+| **Real runner credibility** and wear-testing on real miles | Partly. Test runners can be recruited, but a founder who lives it is more convincing in content and community |
+| **Design taste and product direction** | Hireable. Freelance apparel designers and tech-pack makers exist (roughly $500–$3,000 per style). What you can't hire is someone who cares as much as an owner |
+| **Story and philosophy** | Partly. Anders can write it, but a two-founder story ("two friends who run") is a marketing asset |
+| **Half the work, motivation and risk** | Not really. Solo founders burn out more and have nobody to catch blind spots |
+
+**Neutral read:** Running Tut can technically be built without Tut, but it would be a different brand, and hired design costs cash the company doesn't have yet. The real question isn't "do I need him" but "will he put in the work." That's exactly what contribution-based equity answers, so you don't have to guess now.
+
+## Equity options
+
+Ranked from most protective to simplest. All of them can be fair to both people.
+
+### 1. Slicing Pie (dynamic equity), recommended to start
+
+Created by Mike Moyer. Nobody fixes a split up front. Each founder logs what they put in, valued at fair market rates, and their share is their slice of the total.
+
+- Unpaid time: **2x** your market hourly rate (because you're taking risk by not being paid)
+- Cash: **4x** (cash is the scarcest input early)
+- Equipment, materials, fabric, samples: **2x** market value if unreimbursed
+- Ideas and relationships: only count when they turn into something measurable (e.g. a factory deal that closes)
+- **Freeze the pie** at an agreed moment (first $X revenue, break-even, or outside investment). The split at that point becomes the fixed cap table.
+- Leaving rules: if someone quits without good reason, they keep less of their slice (or the company can buy it back at cost); if someone is pushed out without cause, they keep it all.
+
+**Why it fits:** it removes the argument about who deserves more. If Anders does more, Anders gets more, automatically. If Tut steps up, Tut gets more. It's fair by construction, and it protects whoever is pulling harder.
+
+**Watch-out:** it needs honest logging (a shared spreadsheet, weekly). Agree market rates up front so nobody inflates hours.
+
+### 2. Fixed split with vesting and a cliff
+
+Agree a split now (50/50, 60/40, etc.), but it vests over 4 years with a 1-year cliff. If either person walks before month 12, they keep nothing.
+
+- Simple and standard, and familiar to any future investor or lawyer
+- Protects against someone leaving early, but **not** against someone who stays and coasts
+
+### 3. Milestone-based vesting
+
+Part of each founder's equity unlocks only when specific milestones are hit, tied to their own area:
+
+- Tut: e.g. first 3 tech packs done, first sample signed off, first production run QC'd
+- Anders: e.g. site live, 500-person waitlist, first 100 orders
+
+Good for turning "who's doing more" into checkable facts. Harder to write well; milestones need clear dates.
+
+### 4. Hybrid (often the best long-term)
+
+Slicing Pie until the pie freezes, then the frozen split goes onto standard 4-year vesting from that date. You get fairness while it's uncertain and stability once it's real.
+
+### What a neutral advisor would likely say
+
+- Asking for more than 50% is reasonable **only if** your time, cash or skills in are measurably larger. Today that isn't proven either way, since the brand is days old.
+- Asking for a contribution-tracking model is never unreasonable. It's the fairest way to give yourself more without having to argue for it.
+- Whatever you pick, put it in writing before the first real dollar is spent.
+
 ## Co-founder agreement checklist
 
 Before the first real money is spent or the first order is taken:
 
 - [ ] Roles and owners above, agreed and written down
-- [ ] Equity split
+- [ ] Equity model (Slicing Pie, fixed + vesting, milestones, or hybrid) and when the pie freezes
 - [ ] Vesting schedule and cliff
 - [ ] Hours per week each, and what "full-time" would trigger
 - [ ] Money each puts in, and on what terms
@@ -76,6 +135,6 @@ Before the first real money is spent or the first order is taken:
 1. Does this split feel right to you, Tut? Anything you want that's on Anders' side, or vice versa?
 2. Do you want to lead sourcing and factories, or would you rather Anders took it?
 3. How many hours a week can each of us give, honestly, for the next 6 months?
-4. 50/50? Any reason it shouldn't be?
-5. Are we both OK with vesting?
+4. Would you be open to Slicing Pie (we log contributions and the split follows), instead of fixing a number today?
+5. Are we both OK with vesting and leaving rules?
 6. Who's the public face: one of us, both, or the brand only?
