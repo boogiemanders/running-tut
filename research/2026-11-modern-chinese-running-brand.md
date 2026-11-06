@@ -91,6 +91,50 @@ The existing thesis is "luxury that lasts, with big pockets and gel loops." A Ch
 
 **First test (fits the launch plan):** one concept video for a mandarin-collar wind shell plus long tights with a "sleeve pocket," shot with a Chinatown run club. Compare views and saves against a non-Chinese concept video from the same account. That answers "does the Chinese angle add traction?" cheaply, before Tut has to commit either way.
 
+## 9. Product concept: tops, an AirPods pocket and calligraphy reflectors
+
+*Anders's ideas, 6 Nov 2026.*
+
+### Sleeves and tanks
+- **Tank / singlet:** mesh-backed racing tank with a dropped armhole. Small seal-stamp logo at the hem, calligraphy reflector on the upper back (where car headlights hit a runner from behind).
+- **Long sleeve:** thumbholes, mandarin collar option, reflector strokes running down the back of the forearm so they flash with every arm swing. Movement is what makes a runner visible at night, so arms and ankles are the best reflector spots.
+- **Arm sleeves (pull-on):** the cheapest product to prototype and the easiest to sell with a tank. One calligraphy stroke down each sleeve works as a matching pair.
+
+### AirPods pocket
+- Size it for the AirPods Pro case (about 61 × 45 × 22 mm), which also fits the smaller standard AirPods case. Target an inside pocket of roughly 70 × 55 mm with some stretch.
+- **Where:** a zipped or flap pocket on the back of the waistband (pant and shorts), or a small chest/back pocket on the tank. Avoid the arm sleeve: a hard case flaps there.
+- **Must do:** a closure (zip or magnetic flap), because an AirPods case is slippery and expensive to lose; a soft lining so it doesn't rattle; and a cord loop or key clip nearby for runners who clip the case on.
+- This becomes part of the pocket story: "a place for everything you run with: phone, gels, keys, AirPods."
+
+### Small calligraphy reflectors
+**How to make them (options, simplest first):**
+| Method | Good for | Watch out for |
+|---|---|---|
+| **Reflective heat-transfer film**, cut and heat-pressed (e.g. 3M Scotchlite heat-transfer films) | Bold, simple strokes; cheapest to sample | Very thin, dry-brush stroke ends won't cut or weed cleanly. Keep strokes at least ~1 mm wide and test. |
+| **Printable reflective film** (digitally printed, then cut) | Fine detail, ink-wash greys, coloured reflectors | Costlier per piece; check wash durability |
+| **Reflective ink, screen-printed** | Fine strokes at volume; feels soft, stretches with the fabric | Needs a screen per design; less bright than film |
+| **Laser-cut reflective tape or bonded patch** | Clean edges, seal-stamp shapes | Stiffer on stretch fabric |
+
+All need wash-testing (reflective film can crack or peel after many washes, especially on high-stretch fabric). Ask 3M or a heat-transfer supplier for samples and data sheets before committing ([3M reflective heat transfer film](https://www.3m.com/3M/en_CA/p/d/b00020898/)).
+
+**Design rules:**
+- **Commission a real calligrapher** and own the artwork. Don't use a font: real brush strokes are the point, and fonts can carry licensing limits.
+- **Small and quiet:** one or two characters, a few centimetres tall. Reflects bright at night, nearly invisible by day.
+- **Grey or black reflective**, not silver, if you want it subtle in daylight.
+
+**Picking the characters (what to watch for):**
+- Have several native speakers, from both the mainland and the diaspora, check every character before printing. Mistakes go viral (the classic "tattoo that doesn't mean what you think").
+- **Hidden meanings:** 疾 means "swift" but its main meaning today is "illness." 四 (four) sounds like 死 (death). Avoid characters with a negative second meaning, and don't use the number 4.
+- **Stroke direction and mirroring:** check the artwork isn't flipped during heat-transfer (a common printing error).
+- **Simplified vs traditional:** decide once and stay consistent. It signals who you're talking to.
+- **Stay out of politics and religion:** avoid slogans, nationalist phrases, and religious terms used as decoration.
+- **Good candidate characters to test** (each needs native-speaker sign-off): 跑 run, 风 wind, 光 light, 夜 night, 远 far, 行 go/travel, 恒 perseverance. A "night series" with 夜 and 光 on reflectors is a neat story.
+
+### First samples to make
+1. Arm sleeves + tank with one calligraphy reflector each (cheap, fast, very filmable at night).
+2. Add the AirPods pocket to the pant's back waistband.
+3. Film a night run: headlights catching the calligraphy is a strong concept video.
+
 ## Open questions
 
 - With Tut or solo? (Ask Tut at dinner.)
