@@ -58,7 +58,7 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ## Hoka (shoe giant, apparel is an afterthought)
 
-**Website:** https://www.hoka.com (apparel: https://www.hoka.com/en/us/clothing/)
+**Website:** https://www.hoka.com
 
 **Business:** record ~$5.47B revenue for Deckers in FY2026, driven by Hoka.
 
@@ -76,7 +76,7 @@ The premium running market is real and growing: US running apparel sales rose ab
 
 ## Nike (scale player moving into "designer running")
 
-**Website:** https://www.nike.com/running (NikeLab: https://www.nike.com/nikelab)
+**Website:** https://www.nike.com/running
 
 **Last 30 days**
 - **Oct 1, 2026 earnings:** revenue down 4% to $11.2B, China down 26%, sportswear down low double digits, but **running up double digits** with "consistent share gains." Growth is driven by max-cushion shoes.
