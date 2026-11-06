@@ -96,9 +96,9 @@ The existing thesis is "luxury that lasts, with big pockets and gel loops." A Ch
 *Anders's ideas, 6 Nov 2026.*
 
 ### Sleeves and tanks
-- **Tank / singlet:** mesh-backed racing tank with a dropped armhole. Small seal-stamp logo at the hem, calligraphy reflector on the upper back (where car headlights hit a runner from behind).
-- **Long sleeve:** thumbholes, mandarin collar option, reflector strokes running down the back of the forearm so they flash with every arm swing. Movement is what makes a runner visible at night, so arms and ankles are the best reflector spots.
-- **Arm sleeves (pull-on):** the cheapest product to prototype and the easiest to sell with a tank. One calligraphy stroke down each sleeve works as a matching pair.
+- **Tank / singlet:** mesh-backed racing tank with a dropped armhole. Calligraphy reflector centred on the upper back, on the spine line (where car headlights hit a runner from behind). Optional small one at centre chest.
+- **Long sleeve:** thumbholes, mandarin collar option, calligraphy centred on the back (or centre chest). Plain, non-calligraphy reflective piping can go on the forearms and ankles, since moving limbs make a runner visible at night.
+- **Arm sleeves (pull-on):** the cheapest product to prototype and the easiest to sell with a tank. Keep calligraphy off them (it would sit off-centre); use plain reflective piping or a small seal stamp instead, and let the matching tank carry the centred character.
 
 ### AirPods pocket
 - Size it for the AirPods Pro case (about 61 × 45 × 22 mm), which also fits the smaller standard AirPods case. Target an inside pocket of roughly 70 × 55 mm with some stretch.
@@ -119,6 +119,7 @@ All need wash-testing (reflective film can crack or peel after many washes, espe
 
 **Design rules:**
 - **Use the fonts Anders already picked** in his calligraphy lab (`thepsychology-ai`, `src/app/lab/calligraphy/components/fonts.ts`). See "Fonts from the calligraphy lab" below for which suit reflectors.
+- **Always centred (Anders's rule):** calligraphy goes on the centre line only, centre back or centre chest, never off to one side. Off-centre characters look wrong. Anything on a side, sleeve or leg uses plain reflective trim instead.
 - **Small and quiet:** one or two characters, a few centimetres tall. Reflects bright at night, nearly invisible by day.
 - **Grey or black reflective**, not silver, if you want it subtle in daylight.
 
