@@ -2,6 +2,24 @@
 
 Researched 2026-11-06 for Running Tut. Window asked for: last 30 days (roughly Oct 7 to Nov 6, 2026). Follows on from `2026-11-competitor-sentiment.md` (Satisfy, Bandit, Hoka, Nike).
 
+## Brand websites
+
+| Brand | Website |
+|---|---|
+| Uppervoid | https://www.uppervoid.com |
+| Repsycle | https://repsycle.co |
+| District Vision | https://www.districtvision.com |
+| Gyakusou (Nike x UNDERCOVER) | https://www.nike.com/running · https://undercoverism.com |
+| Descente | https://descente.com · running: https://store.descente.co.jp/descente/feature/des_training_running/ |
+| OPS Running (Objective Performance Supply) | https://www.opsrunning.co.kr |
+| San San Gear | https://sansangear.com |
+| Bandit Running | https://banditrunning.com |
+| Satisfy Running | https://satisfyrunning.com |
+| Hoka | https://www.hoka.com |
+| Nike Running | https://www.nike.com/running |
+| Loose End (skate, not running) | https://www.looseendapparel.com |
+| Maintain Fever, Kodiak | not found |
+
 ## Read this first: how good is the evidence?
 
 - **Reddit, Instagram, TikTok and Facebook could not be read** from the research environment (sites refuse automated reads). What's here comes from brand sites, retailers, gear reviewers, trade press and newsletters.
@@ -23,6 +41,8 @@ None of these brands does what Tut wants to do. **Uppervoid** and **Repsycle** a
 
 ## Uppervoid (Switzerland / Vancouver / Shanghai, alpine premium)
 
+**Website:** https://www.uppervoid.com
+
 **What it is:** "Fine Alpine Apparel, Built Precise, Made to Wander." Founded Dec 2020 by Vis Bi (Wharton, previously founded a Shanghai media company). Registered in Baar, Switzerland, with sites in Vancouver and Shanghai; about 30 staff, three funding rounds (K2 Capital, 13 Capital, Meier Fashion). First trail-running collection April 2024 ("Distance" line). US entry planned by early 2027. Confirmed: outdoor/trail running apparel, not road running.
 
 **Prices (Believe in the Run, Jun 9, 2026):** Awe S 3L hardshell jacket $430, hardshell pant $280, Pacific++ down short-sleeve shirt $405, Nobel S belt $90, Apres Mule recovery shoe $100. Average order about €180 online, €300 in store.
@@ -43,6 +63,8 @@ None of these brands does what Tut wants to do. **Uppervoid** and **Repsycle** a
 
 ## Repsycle (East Asia, trek/hippie premium)
 
+**Website:** https://repsycle.co
+
 **What it is:** "Service in Wanderlust." Designers Jinjin and Xiaoyi; built "on a passion for nomadic travel and long-distance trekking," "heavily inspired by hippie culture." Sizing is "developed around East Asian body proportions." Sold through its own site and boutiques Maann Studio and Weekends. Base city and founding year not stated anywhere readable. Confirmed: makes running shorts (ROTAS, "purpose-built for competitive mountain running"), but it is mainly a trek/outdoor lifestyle brand.
 
 **Prices:** ROTAS running shorts $148; merino tee $136, tank $108, long sleeve $158; hemp long tee $140; windbreaker $209; down jacket $420; pants $146 to $171.
@@ -55,13 +77,19 @@ None of these brands does what Tut wants to do. **Uppervoid** and **Repsycle** a
 
 ## Loose End (not a running brand)
 
+**Website:** https://www.looseendapparel.com (skate brand, not running)
+
 looseendapparel.com: "A skateboarding brand with handcrafted premium quality garments," with a skate program, a custom-wear "Gior" collection and "8FINITY CLUB" compression tees at $31. No running line, no reviews. Instagram and Facebook could not be read. **Not comparable unless Anders meant a different brand.**
 
 ## Maintain Fever (not found)
 
+**Website:** none found
+
 No match in web search, the Running Supply index (visible portion; 80+ more brands are behind an email gate), Field Mag, or newsletters. **Needs a link or handle from Anders.**
 
 ## Gyakusou (Nike x Jun Takahashi / UNDERCOVER, cult design reference)
+
+**Website:** no standalone site; Nike Running https://www.nike.com/running and UNDERCOVER https://undercoverism.com
 
 **What it is:** Nike running line by UNDERCOVER founder Jun Takahashi, 2010 to 2021. Name means "running in reverse." Pieces were tested by Takahashi's Tokyo running crew. Known for "urban elegance meets functional futurism," "odd coloring, Japanese-style fit, and modular approach."
 
@@ -76,6 +104,8 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 **Takeaway for Tut:** Gyakusou is proof that a designer's eye plus real runner testing creates lasting cult value, and that the main thing holding it back was price and availability. If it does relaunch this holiday, NikeLab Running, Our Legacy and Gyakusou together mean Nike is pushing hard into "designer running."
 
 ## District Vision (Los Angeles, mindful luxury)
+
+**Website:** https://www.districtvision.com
 
 **What it is:** founded 2016 by Tom Daly (ex-Acne Studios) and Max Vallot (ex-Saint Laurent). Started with Japanese-made sunglasses (Junya Racer is "iconic"), then expanded into apparel made in Europe (Italian fabrics, Lithuanian construction). Running Supply index (Sep 2026): "Luxury price point for many items. Make a lot of lifestyle stuff. Brand is mindfulness adjacent." Stocked at Dover Street Market and Mr Porter; LA store with meditation; collabs with New Balance, 66°North, Post Archive Faction.
 
@@ -100,6 +130,8 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 
 ## Descente (Osaka, Japanese technical heritage)
 
+**Website:** https://descente.com (global) and running line https://store.descente.co.jp/descente/feature/des_training_running/
+
 **What it is:** Descente Ltd., founded 1935 in Osaka; owns about 16 brands (Descente, Arena, Marmot, Srixon). Design pedigree is skiwear and speed suits (Eric Heiden's 1980 Olympic speed-skating suit, 2002 Olympic Vortex suits with Eiko Ishioka, ISPO Gold for the ALLTERRAIN Transform Jacket). ALLTERRAIN ("Form Follows Function," "high-spec tech wear") is its fashion-facing outdoor line, not running. Confirmed: has a dedicated running line, sold mainly in Japan.
 
 **Last 30 days:** the Japanese running feature page, dated Oct 1, 2026: "速いものは必ず美しい。" ("Fast things are always beautiful. Wear functional beauty to run.") Aimed at "serious runners," ambassador Ryota Igawa (2025 Japan 5000 m champion).
@@ -114,6 +146,8 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 
 ## OPS Running, "Objective Performance Supply" (Seoul, underground run crew label)
 
+**Website:** https://www.opsrunning.co.kr
+
 **What it is:** small Seoul label (Yongsan-gu), representative Jeon Seung-gyu; business registrations dated 2018 and 2023. Copy: "A performance silhouette engineered for runners who move with intent" and "Designed to naturally connect running and everyday life." Also sells caps ("RUN OR DIE"), necklaces and collabs (OPS x OOA, OPS x OSTRYA).
 
 **Prices (KRW, approx USD at ₩1,380/$):** Skin 00 seamless singlet ₩119,000 (~$86); Skin 01 First Edition 9" half tights ₩139,000 (~$100, restocked); Team Legacy tee ₩69,000 (~$50, sold out).
@@ -125,6 +159,8 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 **Takeaway for Tut:** shows the Seoul crew-culture model: dark, restrained palette, small drops, accessories and collabs as part of the identity, at Bandit-level prices. It's a good reference for the look, not a threat in the US.
 
 ## San San Gear (Seoul, technical streetwear, not running)
+
+**Website:** https://sansangear.com
 
 **What it is:** founded 2019 in Seoul; "arguably more fashion label than outdoor brand now" (Weekends, Oct 6, 2026). Stocked in 53 retailers (Goodhood, Extra Butter). Collabs with Puma, ASICS, League of Legends.
 
@@ -141,6 +177,8 @@ No match in web search, the Running Supply index (visible portion; 80+ more bran
 ---
 
 ## Bandit Running: brand philosophy
+
+**Website:** https://banditrunning.com
 
 **Founders**
 - **Tim West**, founder. Started Bandit "out of my Brooklyn basement apartment smack dab in the middle of the pandemic, 2020." Took up running in 2020 with Brooklyn Track Club. First product: cushioned socks in white and black, hand-packed.
