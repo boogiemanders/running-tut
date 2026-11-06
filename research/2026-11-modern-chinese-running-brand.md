@@ -118,7 +118,7 @@ The existing thesis is "luxury that lasts, with big pockets and gel loops." A Ch
 All need wash-testing (reflective film can crack or peel after many washes, especially on high-stretch fabric). Ask 3M or a heat-transfer supplier for samples and data sheets before committing ([3M reflective heat transfer film](https://www.3m.com/3M/en_CA/p/d/b00020898/)).
 
 **Design rules:**
-- **Commission a real calligrapher** and own the artwork. Don't use a font: real brush strokes are the point, and fonts can carry licensing limits.
+- **Use the fonts Anders already picked** in his calligraphy lab (`thepsychology-ai`, `src/app/lab/calligraphy/components/fonts.ts`). See "Fonts from the calligraphy lab" below for which suit reflectors.
 - **Small and quiet:** one or two characters, a few centimetres tall. Reflects bright at night, nearly invisible by day.
 - **Grey or black reflective**, not silver, if you want it subtle in daylight.
 
@@ -129,6 +129,19 @@ All need wash-testing (reflective film can crack or peel after many washes, espe
 - **Simplified vs traditional:** decide once and stay consistent. It signals who you're talking to.
 - **Stay out of politics and religion:** avoid slogans, nationalist phrases, and religious terms used as decoration.
 - **Good candidate characters to test** (each needs native-speaker sign-off): 跑 run, 风 wind, 光 light, 夜 night, 远 far, 行 go/travel, 恒 perseverance. A "night series" with 夜 and 光 on reflectors is a neat story.
+
+### Fonts from the calligraphy lab
+
+Anders's lab has 23 fonts in two groups. For reflectors, stroke weight matters: cut reflective film needs strokes of roughly 1 mm or more, so the **brush** group suits a few-centimetre character better than the thin **pen** group.
+
+**Brush 毛笔 (best fit for reflectors):** Sun GuoTing ShuPu (classical characters only), ZhiMang Xing, SuXin ShiShuBiao, XiaoDouDao MoMoZhi, Li XuKe ShuFa, HanCheng WangShiLi XingShu, ZiXiaoHun FengYi ShouShu, CaoTanZhai Mao ZeDong, DuanNing MaoBi XingShu, MiNi Fan ZhiCao, ZhongQi LiQuan CaoShu, ShuTiFang Deng XiaoPing, FangZheng XingTi CaoShu (and its Jian simplified version).
+
+**Pen 硬笔 (better for printed labels, hang tags, the website):** ZhangYu XiaoRouWan, YingZhang XingShu, TianWei LiangNiWeiXiao, XiaoDouDao QiuRiHeJianFan, Li GuoFu, HanCheng BoBo YingCao, YuWei ShuFa XingShu, ChenJiShi XingKai, ShangShou HongZhi.
+
+**Two flags before using them on product:**
+- **Skip the two fonts styled on political leaders' handwriting** (CaoTanZhai Mao ZeDong and ShuTiFang Deng XiaoPing). On clothing they carry political meaning to anyone who recognises them, which goes against the "stay out of politics" rule above.
+- **Check each font's commercial license.** Printing on clothing you sell is commercial use. ZhiMang Xing is on Google Fonts under the open SIL license, so it's safe. FangZheng (方正) fonts are commercial and need a paid license. Many of the others are free only for personal use. Clear the license for whichever ones make the shortlist, or have the final characters redrawn by hand, using the font as reference.
+- **Shortlist to try first:** ZhiMang Xing (open license, bold strokes), plus whichever two or three of the brush fonts look best at reflector size once their licenses check out.
 
 ### First samples to make
 1. Arm sleeves + tank with one calligraphy reflector each (cheap, fast, very filmable at night).
