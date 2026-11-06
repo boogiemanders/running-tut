@@ -119,7 +119,7 @@ All need wash-testing (reflective film can crack or peel after many washes, espe
 
 **Design rules:**
 - **Use the fonts Anders already picked** in his calligraphy lab (`thepsychology-ai`, `src/app/lab/calligraphy/components/fonts.ts`). See "Fonts from the calligraphy lab" below for which suit reflectors.
-- **Always centred (Anders's rule):** calligraphy goes on the centre line only, centre back or centre chest, never off to one side. Off-centre characters look wrong. Anything on a side, sleeve or leg uses plain reflective trim instead.
+- **Always centred (Anders's rule):** calligraphy goes on the centre line only, centre back or centre chest, never off to one side. Off-centre characters look wrong. The one exception is a smaller character placed on a pocket (e.g. the thigh phone pocket or the tank's AirPods pocket), centred on that pocket. Anything on a side, sleeve or leg uses plain reflective trim instead.
 - **Small and quiet:** one or two characters, a few centimetres tall. Reflects bright at night, nearly invisible by day.
 - **Grey or black reflective**, not silver, if you want it subtle in daylight.
 
