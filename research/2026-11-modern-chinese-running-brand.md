@@ -60,7 +60,7 @@ Running specialists Bandit (https://bandit-running.com) and Satisfy (https://sat
 
 ## 6. Design language ideas (Chinese without being a costume)
 
-- **Garment structure:** the *duijin* (对襟) centre-opening jacket, mandarin collar on a wind shell, frog-closure-inspired (盘扣) toggles on a vest, side slits from the *qipao* reworked as shorts vents.
+- **Garment structure:** the *duijin* (对襟) centre-opening jacket, frog-closure-inspired (盘扣) toggles on a vest, side slits from the *qipao* reworked as shorts vents.
 - **Pockets with a story:** the wide inner sleeve pocket of a Hanfu robe (袖袋) as the inspiration for a big, bounce-free phone pocket. This ties the culture directly to our functional hook.
 - **Colour:** traditional Chinese colour names (e.g. 黛蓝 dai-lan ink blue, 朱砂 cinnabar red, 竹青 bamboo green, 月白 moon white) as the colourway system. This is also the antidote to Hoka-style colourways.
 - **Craft details:** *sashiko*-like reinforced stitching has a Chinese cousin in 纳鞋底 shoe-sole quilting; repair and mending as a lifetime-warranty story.
@@ -89,7 +89,7 @@ The existing thesis is "luxury that lasts, with big pockets and gel loops." A Ch
 | Not Hoka's colourways | Traditional Chinese colour palette, named and explained |
 | Concept videos first | Shoot in Chinatown at dawn, with a run club, telling the story behind each detail |
 
-**First test (fits the launch plan):** one concept video for a mandarin-collar wind shell plus long tights with a "sleeve pocket," shot with a Chinatown run club. Compare views and saves against a non-Chinese concept video from the same account. That answers "does the Chinese angle add traction?" cheaply, before Tut has to commit either way.
+**First test (fits the launch plan):** one concept video for a centred-calligraphy tank plus long tights with a "sleeve pocket," shot with a Chinatown run club. Compare views and saves against a non-Chinese concept video from the same account. That answers "does the Chinese angle add traction?" cheaply, before Tut has to commit either way.
 
 ## 9. Product concept: tops, an AirPods pocket and calligraphy reflectors
 
@@ -97,7 +97,7 @@ The existing thesis is "luxury that lasts, with big pockets and gel loops." A Ch
 
 ### Sleeves and tanks
 - **Tank / singlet:** mesh-backed racing tank with a dropped armhole. Calligraphy reflector centred on the upper back, on the spine line (where car headlights hit a runner from behind). Optional small one at centre chest.
-- **Long sleeve:** thumbholes, mandarin collar option, calligraphy centred on the back (or centre chest). Plain, non-calligraphy reflective piping can go on the forearms and ankles, since moving limbs make a runner visible at night.
+- **Long sleeve:** thumbholes, calligraphy centred on the back (or centre chest). Plain, non-calligraphy reflective piping can go on the forearms and ankles, since moving limbs make a runner visible at night.
 - **Arm sleeves (pull-on):** the cheapest product to prototype and the easiest to sell with a tank. Keep calligraphy off them (it would sit off-centre); use plain reflective piping or a small seal stamp instead, and let the matching tank carry the centred character.
 
 ### AirPods pocket
@@ -119,6 +119,7 @@ All need wash-testing (reflective film can crack or peel after many washes, espe
 
 **Design rules:**
 - **Use the fonts Anders already picked** in his calligraphy lab (`thepsychology-ai`, `src/app/lab/calligraphy/components/fonts.ts`). See "Fonts from the calligraphy lab" below for which suit reflectors.
+- **No mandarin collars (Anders's rule)** on any piece.
 - **Always centred (Anders's rule):** calligraphy goes on the centre line only, centre back or centre chest, never off to one side. Off-centre characters look wrong. The one exception is a smaller character placed on a pocket (e.g. the thigh phone pocket or the tank's AirPods pocket), centred on that pocket. Anything on a side, sleeve or leg uses plain reflective trim instead.
 - **Small and quiet:** one or two characters, a few centimetres tall. Reflects bright at night, nearly invisible by day.
 - **Grey or black reflective**, not silver, if you want it subtle in daylight.
